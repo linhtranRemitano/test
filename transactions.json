@@ -1,0 +1,849 @@
+[
+	{
+		"id": 1110,
+		"customer_id": 11100,
+		"date": 1698507050,
+		"limit_execution": null,
+		"market_execution_json": {
+			"source_amount": 3033468110000000000,
+			"destination_amount": 302588443972500000000,
+			"hybrid": {
+				"SourceCoin": "sol",
+				"DestinationCoin": "usdt",
+				"SourceAmount": 3033468110000000000,
+				"DestinationAmount": 302588443972500000000,
+				"IsPartiallyFilledAllowed": false,
+				"ProtocolFees": [
+					{
+						"token": "sol",
+						"amount": 7583670275000000
+					}
+				],
+				"Fees": [
+					{
+						"token": "sol",
+						"amount": 7583670275000000
+					}
+				],
+				"PoolIDs": null,
+				"order_book_filled_order_ids": [
+					23578333
+				],
+				"SplitSwapResults": [
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					},
+					{
+						"SourceCoin": "sol",
+						"DestinationCoin": "usdt",
+						"SourceAmount": 303346811000000000,
+						"DestinationAmount": 30258844397250000000,
+						"ProtocolFees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"Fees": [
+							{
+								"token": "sol",
+								"amount": 758367027500000
+							}
+						],
+						"PoolIDs": null,
+						"order_book_filled_order_ids": [
+							23578333
+						],
+						"SwapRouteResults": [
+							{
+								"SourceCoin": "sol",
+								"DestinationCoin": "usdt",
+								"SourceAmount": 303346811000000000,
+								"DestinationAmount": 30258844397250000000,
+								"IsDirect": true,
+								"BridgeCoin": "",
+								"ProtocolFees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"Fees": [
+									{
+										"token": "sol",
+										"amount": 758367027500000
+									}
+								],
+								"PoolIDs": null,
+								"order_book_filled_order_ids": [
+									23578333
+								],
+								"DirectSwapStepResult": {
+									"SourceCoin": "sol",
+									"DestinationCoin": "usdt",
+									"SourceAmount": 303346811000000000,
+									"DestinationAmount": 30258844397250000000,
+									"ProtocolFeeAmount": 758367027500000,
+									"FeeAmount": 758367027500000,
+									"PoolID": 0,
+									"PoolZeroForOne": true,
+									"PoolSourceAmount": 0,
+									"PoolDestinationAmount": 0,
+									"PoolProtocolFeeAmount": 0,
+									"PoolFeeAmount": 0,
+									"OrderBookPair": "usdt_sol",
+									"OrderBookSourceAmount": 303346811000000000,
+									"OrderBookDestinationAmount": 30258844397250000000,
+									"OrderBookProtocolFeeAmount": 758367027500000,
+									"order_book_filled_order_ids": [
+										23578333
+									]
+								},
+								"BridgeSwapStepResult1": null,
+								"BridgeSwapStepResult2": null
+							}
+						]
+					}
+				]
+			},
+			"protocol_fees": [
+				{
+					"token": "sol",
+					"amount": 7583670275000000
+				}
+			],
+			"fees": [
+				{
+					"token": "sol",
+					"amount": 7583670275000000
+				}
+			]
+		}
+	},
+	{
+		"id": 11100,
+		"customer_id": 11101,
+		"date": 1698507110,
+		"limit_execution": null,
+		"market_execution_json": {
+			"source_amount": 1200,
+			"destination_amount": 3000,
+			"pool": {
+				"source_amount": 1000,
+				"destination_amount": 2340,
+				"split_swaps": [
+					{
+						"source_amount": 250,
+						"destination_amount": 585,
+						"swap_route": [
+							{
+								"pool_id": 34,
+								"zero_for_one": true,
+								"amount0": 250,
+								"amount1": -585
+							}
+						],
+						"protocol_fees": [
+							{
+								"token": "usdt",
+								"amount": 75
+							}
+						]
+					},
+					{
+						"source_amount": 250,
+						"destination_amount": 585,
+						"swap_route": [
+							{
+								"pool_id": 34,
+								"zero_for_one": true,
+								"amount0": 250,
+								"amount1": -585
+							}
+						],
+						"protocol_fees": [
+							{
+								"token": "usdt",
+								"amount": 75
+							}
+						]
+					},
+					{
+						"source_amount": 250,
+						"destination_amount": 585,
+						"swap_route": [
+							{
+								"pool_id": 34,
+								"zero_for_one": true,
+								"amount0": 250,
+								"amount1": -585
+							}
+						],
+						"protocol_fees": [
+							{
+								"token": "usdt",
+								"amount": 75
+							}
+						]
+					}
+				],
+				"protocol_fees": [
+					{
+						"token": "usdt",
+						"amount": 75
+					}
+				]
+			},
+			"order_book": {
+				"min_price": 2.3478650972606416e+22,
+				"source_amount": 200,
+				"destination_amount": 660,
+				"filled_order_ids": [
+					23578333
+				],
+				"protocol_fees": [
+					{
+						"token": "usdt",
+						"amount": 75
+					}
+				]
+			}
+		}
+	}
+]
